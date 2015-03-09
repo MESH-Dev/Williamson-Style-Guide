@@ -1,0 +1,43 @@
+@font-face {
+  font-family: nexa_bold;
+  src: url(fonts/nexa_bold.otf);
+}
+@font-face {
+  font-family: nexa_light;
+  src: url(fonts/nexa_light.otf);
+}
+#case-studies { padding: 0; }
+#video-thumbnails { padding: 0; }
+h1 { margin: 15px 0; }
+header { position: relative; }
+.block { margin: 50px 0; }
+.example-grid .column, .example-grid .columns { background: #EEE; }
+.notes { background: #f8ee8f; padding: 25px; }
+#overview .overview-callout:hover { background: black; color: white; }
+.logo-holder { height: 150px; }
+.color-1 { padding: 10px; height: 100px; margin-top: 20px; }
+.color-2 { padding: 10px; height: 50px; margin-top: 20px; }
+.case-study { margin-top: 20px; }
+
+table {
+  width: 100%;
+  padding: 20px 0 20px 0;
+}
+
+table th {
+  padding: 8px 2px;
+  font-weight: bold;
+  font-size: 14px;
+  border-bottom: 2px solid black;
+  color: black;
+}
+
+table td {
+  padding: 12px 2px 0px 2px;
+  border-right: 30px solid #fff;
+  border-left: 30px solid #fff;
+  color: black;
+}
+ 
+
+ 
